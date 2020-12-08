@@ -6,6 +6,7 @@ yellow
 blue
 red
 orange
+indigo
 black
 unicorn
 These are the colours of the Rainbow
